@@ -1,6 +1,7 @@
 # University of Alabama Libraries Scholarly API Cookbook Archive
 
-The [University of Alabama Libraries Scholarly API Cookbook](https://ua-libraries-research-data-services.github.io/UALIB_ScholarlyAPI_Cookbook) is an open online book containing short scholarly API code examples (i.e., “recipes”) that demonstrate how to work with various scholarly web service APIs. This repository is a publicly available archive of recipes previously in the Scholarly API Cookbook. As of now, this archive includes Matlab, Mathematica, and C recipes.
+> [!IMPORTANT]
+> This repository is a publicly available archive of recipes previously in the Scholarly API Cookbook. As of now, this archive includes Matlab, Mathematica, and C recipes. They are not being maintained nor updated. Please see the the [University of Alabama Libraries Scholarly API Cookbook](https://ua-libraries-research-data-services.github.io/UALIB_ScholarlyAPI_Cookbook) for current tutorials.
 
 ## License and Reuse
 
