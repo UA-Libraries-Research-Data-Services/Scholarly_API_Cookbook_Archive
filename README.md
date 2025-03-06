@@ -1,7 +1,7 @@
 # University of Alabama Libraries Scholarly API Cookbook Archive
 
 > [!IMPORTANT]
-> This repository is a publicly available archive of recipes previously in the Scholarly API Cookbook. As of now, this archive includes Matlab, Mathematica, and C recipes. They are not being maintained nor updated. Please see the the [University of Alabama Libraries Scholarly API Cookbook](https://ua-libraries-research-data-services.github.io/UALIB_ScholarlyAPI_Cookbook) for current tutorials.
+> This repository is a publicly available archive of recipes previously in the University of Alabama Scholarly API Cookbook. As of now, this archive includes Matlab, Mathematica, and C recipes. They are not being maintained nor updated. Please see the latest [University of Alabama Libraries Scholarly API Cookbook](https://ua-libraries-research-data-services.github.io/UALIB_ScholarlyAPI_Cookbook) for current tutorials.
 
 ## License and Reuse
 
