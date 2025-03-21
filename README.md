@@ -1,7 +1,7 @@
 # University of Alabama Libraries Scholarly API Cookbook Archive
 
 > [!IMPORTANT]
-> This repository is a publicly available archive of recipes previously in the University of Alabama Scholarly API Cookbook. As of now, this archive includes Matlab, Mathematica, C, and Python recipes. They are not being maintained nor updated. Please see the latest [University of Alabama Libraries Scholarly API Cookbook](https://ua-libraries-research-data-services.github.io/UALIB_ScholarlyAPI_Cookbook) for current tutorials. The links in the recipes are not being updated and may no longer be accurate. Please check the individual scholarly API documentation for current information on API usage and policies.
+> This repository is a publicly available archive of recipes previously in the University of Alabama Scholarly API Cookbook. As of now, this archive includes Matlab, Mathematica, C, and Python recipes. We have also decided to archive all Bash recipes except for the Z39.50 Bash recipe. They are not being maintained nor updated. Please see the latest [University of Alabama Libraries Scholarly API Cookbook](https://ua-libraries-research-data-services.github.io/UALIB_ScholarlyAPI_Cookbook) for current tutorials. The links in the recipes are not being updated and may no longer be accurate. Please check the individual scholarly API documentation for current information on API usage and policies.
 
 ## License and Reuse
 
