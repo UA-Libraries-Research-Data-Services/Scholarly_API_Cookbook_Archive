@@ -1,11 +1,13 @@
 # University of Alabama Libraries Scholarly API Cookbook Archive
 
 > [!IMPORTANT]
-> This repository is a publicly available archive of recipes previously in the University of Alabama Scholarly API Cookbook. As of now, this archive includes Matlab, Mathematica, and C recipes. They are not being maintained nor updated. Please see the latest [University of Alabama Libraries Scholarly API Cookbook](https://ua-libraries-research-data-services.github.io/UALIB_ScholarlyAPI_Cookbook) for current tutorials.
+> This repository is a publicly available archive of recipes previously in the University of Alabama Scholarly API Cookbook. As of now, this archive includes Matlab, Mathematica, C, and Python recipes. They are not being maintained nor updated. Please see the latest [University of Alabama Libraries Scholarly API Cookbook](https://ua-libraries-research-data-services.github.io/UALIB_ScholarlyAPI_Cookbook) for current tutorials. The links in the recipes are not being updated and may no longer be accurate. Please check the individual scholarly API documentation for current information on API usage and policies.
 
 ## License and Reuse
 
 Most of the code in this repository is licensed under the [MIT License](https://github.com/UA-Libraries-Research-Data-Services/Scholarly_API_Cookbook_Archive/blob/main/LICENSE). This includes code written to be used with Wolfram Mathematica and MathWorks MATLAB. However, these proprietary software packages themselves are not covered under the MIT License, and users must have valid licenses for Mathematica and MATLAB to run the associated code.
+
+The Python scripts in this repository are licensed under the MIT License. However, these scripts may rely on external libraries such as matplotlib, pandas, and others. These libraries are licensed under their own respective terms, and will need to be installed separately. Refer to the documentation of each library for installation instructions and licensing details.
 
 The C code in this repository is licensed under the MIT License. This repository provides only the source code, and users will need to compile the C programs to run them. Some of the C code depends on external libraries such as curl, jq, and YAZ, which are licensed under their own respective terms. These libraries will need to be obtained and installed separately by the user.
 
